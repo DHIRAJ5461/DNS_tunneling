@@ -4,4 +4,5 @@ streamlit==1.26.0
 pandas==1.5.3
 pycaret==3.0.4
 streamlit-option-menu==0.3.2
-scikit-learn==1.0.1
+scikit-learn==1.2.2
+python==3.10.10
